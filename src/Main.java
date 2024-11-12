@@ -5,9 +5,9 @@ public class Main {
         String text = "Old world";
         System.out.println(text);
 
-        int number = 20;
+        int number = 10;
         System.out.println(number);
 
-        System.out.println(number * 5 + number);
+        System.out.println(number * 16 + number);
     }
 }
