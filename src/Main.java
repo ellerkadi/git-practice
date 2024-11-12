@@ -4,8 +4,9 @@ public class Main {
         System.out.println("Hello people!");
         String text = "Old world";
         System.out.println(text);
-
-        int number = 10;
+        char a = 'k';
+        System.out.println(a);
+        int number = 20;
         System.out.println(number);
 
         System.out.println(number * 16 + number);
