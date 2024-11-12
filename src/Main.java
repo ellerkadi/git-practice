@@ -1,10 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello people!");
+        System.out.println("Tere maailm!");
         String text = "Old world";
         System.out.println(text);
-
+        char a = 'k';
+        System.out.println(a);
         int number = 20;
         System.out.println(number);
 
